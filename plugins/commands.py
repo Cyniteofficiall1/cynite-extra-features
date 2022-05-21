@@ -41,8 +41,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ 💠', url='https://t.me/CyniteMoviesGrouo'),
-            InlineKeyboardButton('💠 Bᴏᴛs Uᴘᴅᴀᴛᴇs 💠', url='https://t.me/HBBackuo')
+            InlineKeyboardButton('💠 Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ 💠', url='https://t.me/CyniteMoviesGroup'),
+            InlineKeyboardButton('💠 Bᴏᴛs Uᴘᴅᴀᴛᴇs 💠', url='https://t.me/HBBackup')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -84,8 +84,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ 💠', url='https://t.me/CyniteMoviesGrouo'),
-            InlineKeyboardButton('💠 Bᴏᴛs Uᴘᴅᴀᴛᴇs 💠', url='https://t.me/HBBackuo')
+            InlineKeyboardButton('💠 Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ 💠', url='https://t.me/CyniteMoviesGroup'),
+            InlineKeyboardButton('💠 Bᴏᴛs Uᴘᴅᴀᴛᴇs 💠', url='https://t.me/HBBackup')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
